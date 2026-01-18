@@ -1,0 +1,5 @@
+1. Technology category generates the highest total sales.
+2. West region is the top-performing region across most segments.
+3. Consumer segment contributes the maximum revenue overall.
+4. Furniture category shows lower profit margins compared to Technology.
+5. South region shows relatively lower sales and needs improvement.
